@@ -139,7 +139,7 @@ Every row in [`data/processed/all_posts_scored.csv`](data/processed/all_posts_sc
 hsi-sentiment-agent/
 ├── dashboard.py                   # One-click launcher for interactive web dashboard
 ├── config.py                      # Central asset definitions, keywords, & exchange config
-├── requirements.txt               # Dependencies (apify-client, pandas, plotly, etc.)
+├── requirements-dev.txt           # Dependencies (apify-client, pandas, plotly, etc.)
 ├── README.md                      # Complete executive guide & documentation
 ├── data/
 │   ├── raw/                       # Platform-specific raw CSV files
