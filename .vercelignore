@@ -1,5 +1,0 @@
-# Ignore heavy virtualenvs and raw data
-venv/
-.venv/
-data/
-outputs/

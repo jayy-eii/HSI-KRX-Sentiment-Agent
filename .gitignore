@@ -13,8 +13,9 @@ env/
 *.egg-info/
 .pytest_cache/
 
-# OS / Editor
+# OS / Editor / Vercel
 .DS_Store
 .idea/
 .vscode/
 *.log
+.vercel
