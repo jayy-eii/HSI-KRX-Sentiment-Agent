@@ -1,0 +1,11 @@
+# Tell Vercel to ignore backend Python files and heavy libraries
+requirements.txt
+*.py
+scrapers/
+sentiment/
+features/
+model/
+data/
+outputs/
+venv/
+.venv/
