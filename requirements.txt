@@ -1,0 +1,11 @@
+apify-client
+exa-py
+yfinance
+pandas
+numpy
+scikit-learn
+xgboost
+plotly
+python-dotenv
+requests
+google-generativeai
